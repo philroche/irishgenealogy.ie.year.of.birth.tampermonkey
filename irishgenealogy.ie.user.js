@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Add Year of Birth to Multiple Records
 // @namespace    http://tampermonkey.net/
-// @version      2024-10-10
+// @version      2024-10-10.1
 // @description  Add year of birth for multiple records based on age at death and year of death
 // @author       You
 // @match        https://civilrecords.irishgenealogy.ie/churchrecords/civil-perform-search.jsp*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=irishgenealogy.ie
 // @grant        none
+// @downloadURL  https://github.com/philroche/irishgenealogy.ie.year.of.birth.tampermonkey/blob/main/irishgenealogy.ie.user.js
 // ==/UserScript==
 
 (function() {
